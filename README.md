@@ -18,3 +18,15 @@ linear commit history by integrating changes without merge commits.
 -Feature Branch Updates:
 Rebase a feature branch onto the latest main branch to incorporate the latest changes.
 -----------------------------------------------------------------------------
+To list all tags:
+ git tag 
+ ---------------------------------------------------------------------------- 
+ To delete remote tag:
+ git push origin --delete v1.0
+ To delete local tags:
+ git tag -d v1.0
+  ----------------------------------------------------------------------------
+![Project Icon](.C:\Users\Dell\Desktop\vc\lab2project "Project Icon")
+  ----------------------------------------------------------------------------
+
+
