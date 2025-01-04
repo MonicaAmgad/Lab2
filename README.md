@@ -26,7 +26,8 @@ To list all tags:
  To delete local tags:
  git tag -d v1.0
   ----------------------------------------------------------------------------
-![Project Icon](/ph.png "Project Icon")
+![Image icon](https://raw.githubusercontent.com/username/repository/main/path/to/ph.png)
+
   ----------------------------------------------------------------------------
 
 
