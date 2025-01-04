@@ -26,7 +26,7 @@ To list all tags:
  To delete local tags:
  git tag -d v1.0
   ----------------------------------------------------------------------------
-![Project Icon](.C:\Users\Dell\Desktop\vc\lab2project "Project Icon")
+![Project Icon](.ph.png "Project Icon")
   ----------------------------------------------------------------------------
 
 
